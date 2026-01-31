@@ -1,0 +1,28 @@
+{
+  "name": "openclaw-runninghub-plugin",
+  "version": "1.0.0",
+  "description": "OpenClaw plugin for RunningHub API integration - Cloud-based ComfyUI workflows with GPU acceleration",
+  "main": "runninghub-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openclaw",
+    "plugin",
+    "runninghub",
+    "comfyui",
+    "ai",
+    "gpu",
+    "cloud-computing",
+    "workflow"
+  ],
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[your-username]/openclaw-runninghub-plugin.git"
+  }
+}
